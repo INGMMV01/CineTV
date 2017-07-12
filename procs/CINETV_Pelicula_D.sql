@@ -1,0 +1,8 @@
+CREATE PROCEDURE [dbo].[CINETV_Pelicula_D] 
+	@Id AS INT
+AS
+BEGIN
+	DELETE FROM PeliculaTB 
+	WHERE Id = @Id
+			  
+END;

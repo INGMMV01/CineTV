@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineTV", "CineTV.csproj", "{30E98BE1-6089-403E-A3DB-CAE3811EC287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ingmmv01.infr.ecc", "..\INGMMV01.IFRT\ingmmv01.infr.ecc\ingmmv01.infr.ecc.csproj", "{8DC8341D-954A-413B-B046-68C6858679A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ingmmv01.infr.data", "..\INGMMV01.IFRT\ingmmv01.infr.data\ingmmv01.infr.data.csproj", "{02566611-1F5D-4661-A940-4CC08E1A76F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E98BE1-6089-403E-A3DB-CAE3811EC287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E98BE1-6089-403E-A3DB-CAE3811EC287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E98BE1-6089-403E-A3DB-CAE3811EC287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E98BE1-6089-403E-A3DB-CAE3811EC287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC8341D-954A-413B-B046-68C6858679A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC8341D-954A-413B-B046-68C6858679A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC8341D-954A-413B-B046-68C6858679A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC8341D-954A-413B-B046-68C6858679A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02566611-1F5D-4661-A940-4CC08E1A76F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02566611-1F5D-4661-A940-4CC08E1A76F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02566611-1F5D-4661-A940-4CC08E1A76F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02566611-1F5D-4661-A940-4CC08E1A76F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
